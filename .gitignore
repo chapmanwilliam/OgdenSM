@@ -1,0 +1,11 @@
+/.vscode
+/CONTRIBUTING.md
+/LICENSE
+/README.md
+/assets
+/dist
+/node_modules
+/package-lock.json
+/package.json
+/src
+/webpack.config.js
