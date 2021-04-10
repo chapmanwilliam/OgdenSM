@@ -5,12 +5,12 @@
   <ProviderName>Contoso</ProviderName>
   <DefaultLocale>en-US</DefaultLocale>
   <DisplayName DefaultValue="Ogden Split Multipliers"/>
-  <Description DefaultValue="Write your own Excel functions in JavaScript."/>
+  <Description DefaultValue="Ogden Multipliers in a Spreadsheet."/>
   <IconUrl DefaultValue="https://localhost:3000/assets/Original.png"/>
   <HighResolutionIconUrl DefaultValue="https://localhost:3000/assets/Orginal.png"/>
-  <SupportUrl DefaultValue="https://www.contoso.com/help"/>
+  <SupportUrl DefaultValue="https://www.ogdensm.co.uk"/>
   <AppDomains>
-    <AppDomain>https://www.contoso.com</AppDomain>
+    <AppDomain>https://www.ogdensm.co.uk</AppDomain>
   </AppDomains>
   <Hosts>
     <Host Name="Workbook"/> 
